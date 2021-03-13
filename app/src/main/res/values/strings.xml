@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="text_header_of_homescreen">QuizApp</string>
+    <string name="cardview_text_header">Welcome</string>
+    <string name="cardview_text_subhead">Please enter your name.</string>
+    <string name="et_name">Name</string>
+    <string name="start">START</string>
+    <string name="text_button_submit">SUBMIT</string>
+</resources>
